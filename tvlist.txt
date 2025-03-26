@@ -845,12 +845,12 @@ CTI+,http://ali.hlspull.yximgs.com/live/_duan_ju_bao_bao_bao_xiao_shi_hou_zuo_gu
 动物星球,http://198.16.100.186:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
 动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-TVBS,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-TVBS,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+
 TVBS,http://198.16.100.186:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS,http://198.16.100.186:8278/tvbs/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e8588e7519aabaea4dd3e62a6f2e193e
 TVBS,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e8588e7519aabaea4dd3e62a6f2e193e
+
 TVBS新闻台,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS新闻台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS新闻台,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
